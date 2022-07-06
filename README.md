@@ -12,3 +12,5 @@ yarn dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 ![weather1](https://user-images.githubusercontent.com/107386589/177516668-1e63c22c-ad3c-4817-8bb4-4875b3f0dd81.png)
+
+![w2](https://user-images.githubusercontent.com/107386589/177517037-d05c3195-7d3d-46b8-8c72-82ebca79e64f.png)
